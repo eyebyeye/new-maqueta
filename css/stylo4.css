@@ -1,0 +1,134 @@
+*{
+	font-family: FiraSans;
+}
+.navPrueva{
+
+    border:        solid 1px black;
+    padding:       0%;
+    border:        none;
+    box-shadow:    0 0 6px 4px #f9f1f1;
+}
+
+.imgNav{
+
+	margin-left:   250px;
+	margin-top:    0px;
+}
+
+.lowIcom{
+
+	margin-top:    0px;
+	color:         blue;
+}
+
+.upIcom{
+
+	margin-top:    20px;
+}
+
+.paddinrig{
+
+	padding-right: 90px;
+}
+
+.rig{
+
+	margin-right:  80px;
+}
+
+.spanP{
+
+   font-size:      23px;color: blue;
+}
+
+.textPrincipal{
+
+	font-size:     70px;
+	
+}
+
+.colorBlue{
+
+	background:    #030873;
+	width:         95%;
+	padding:       18px;
+	margin-top:    20%;
+	border:        none;
+}
+
+.letrasBlueRegister{
+
+	color:         #030873;
+	margin-right:  190px;
+	margin-top:    2%;
+}
+
+.inputRegistro{
+
+	width:         95%;
+	padding:       18px;
+}
+
+.cardRegister{
+
+	width:         380px;
+	height:        380px;
+	margin-left:   130px;
+	background:    white;
+	border:        none;
+}
+
+.redersLetra{
+
+	color:         #9e9b9e;
+
+}
+
+.letrarRedes{
+
+	margin-right:  22px;
+	font-size:     15px;
+	color:         #9e9b9e;
+}
+
+.lupa{
+
+   margin-top:     10px;
+}
+
+.letrasNav{
+
+	color:         #330873;
+	font-size:     20px;
+}
+
+.letrasBlanca{
+
+	 color:        #e0dfdf;
+	 font-size:    30px;
+	 text-align:   left;
+}
+
+.buttonCuadros{
+
+	position:      absolute;
+	margin-top:    2%;
+	margin-left:   10px;
+	border:        none;
+	padding-bottom:3px ;
+	padding-right: 40px;
+	text-align:    center;"
+}
+
+.cardCuadros{
+
+	border:        none;
+	width:         380px;
+	background:    transparent;
+}
+
+.cardFooterCuadros{
+
+	border:        none;
+	background:    transparent;
+}
